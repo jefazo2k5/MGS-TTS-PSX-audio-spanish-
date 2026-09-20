@@ -10,7 +10,7 @@ Parche de inyección de audio castellano original PSX  a Metal Gear The Twin Sna
 
 Proyecto que busca reconstruir los diálogos en español (principalmente CODEC y cinemáticas) de Metal Gear Solid: The Twin Snakes (GameCube) utilizando como fuente los audios de Metal Gear Solid (PSX) en español, manteniendo el timing(en medida de lo posible), estructura de los contenedores de audio del juego de GameCube.
 
-UPDATE!(Estado del proyecto 29/09/2026
+UPDATE!(Estado del proyecto 29/09/2026)
 
 ✅ Extracción de audio de contenedores (GameCube) y volcado a archivos individuales.
 
@@ -22,7 +22,7 @@ UPDATE!(Estado del proyecto 29/09/2026
 
 Emparejado masivo (mapa de equivalencias) entre:
 
-✅ Parcheo final VOX/Demo/Movie equivalentes.
+✅ Parcheo final Vox/Demo/Movie equivalentes.
 
 
 
